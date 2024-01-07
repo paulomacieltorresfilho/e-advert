@@ -8,7 +8,7 @@ Bot para informar novos anúncios de carros do meu interesse  nas principais pla
 
 ## Stack
 - **Python** - Lógica para consumir as API's e enviar os e-mails
-- **?** - Biblioteca para fazer o envio dos e-mails via Python
+- **email** - Biblioteca para fazer o envio dos e-mails via Python
 - **PythonAnywhere** - Automatizar iniciação do BOT
 
 ## Documentações 
@@ -18,7 +18,8 @@ Bot para informar novos anúncios de carros do meu interesse  nas principais pla
 - [OLX]()
 - [Mercado Livre]()
 
-### Documentação 
+### Tutoriais para envio de e-mails
+- [Real Python](https://realpython.com/python-send-email/)
 
 
 
