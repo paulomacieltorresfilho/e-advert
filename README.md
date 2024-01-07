@@ -21,5 +21,6 @@ Bot para informar novos anúncios de carros do meu interesse  nas principais pla
 ### Tutoriais para envio de e-mails
 - [Real Python](https://realpython.com/python-send-email/)
 
-
+## Infos
+- E-mail utilizado para o envio dos e-mails: "sender.paulo@gmail.com"
 
